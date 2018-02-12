@@ -2,4 +2,4 @@
 Manual testing some web service with detailed test cases
 
 
-      Manual testing some web service with detailed test plan
+      Manual testing some web service with detailed test plan in Excel
